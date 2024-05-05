@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="NHKWorld.yt" tvg-name="NHK World Japan" group-title="News", NHK World Japan
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714911705/ei/eSU3ZuyBK_iclu8P-KGggAQ/ip/172.183.154.101/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-IlrQnMdY4IgltL8_w3oF9twxJ4gD7hA9HNKi--D-X18uvXw8CIQhRu/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQgr295g566A682yQaCQ0TQpaeIb9N4-jMc_cv4m2cPICIQCPLG9h3VNAvzSIlfciT3E01vZ1obJpzJ_C9-V5XqJtJQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ArirangTV.yt" tvg-name="Arirang TV" group-title="Education", Arirang TV
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714911706/ei/eiU3ZtrhD4y_lu8Po6mO0AU/ip/172.183.154.101/id/CJVBX7KI5nU.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_wGcihZEwtMsEUt5kun8fFZfFYlObcdMmj0nVPvphcAmSvz-hYePdZz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZmXKv9bXvMJEnJbyjw3DG2nlQjCJRRiiEReff4nc3BECIBWsyd9nbnq7SqRiTZ_ssX9sWIqlVtkRH5jnc8rwn_I0/file/index.m3u8
 
 #EXTINF:-1 tvg-id="abscbnentertainment.yt" tvg-name="Kapamilya Online Live" group-title="News", Kapamilya Online Live
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
