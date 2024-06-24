@@ -2,42 +2,42 @@
   <channel id="NHKWorld.yt">
     <display-name lang="en">NHK World Japan</display-name>
   </channel>
-  <programme channel="NHKWorld.yt" start="20240624010000 +0100" stop="20240624040000 +0100">
+  <programme channel="NHKWorld.yt" start="20240624030000 +0100" stop="20240624060000 +0100">
     <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
     <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
     <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NHKWorld.yt" start="20240624040000 +0100" stop="20240624070000 +0100">
+  <programme channel="NHKWorld.yt" start="20240624060000 +0100" stop="20240624090000 +0100">
     <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
     <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
     <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NHKWorld.yt" start="20240624070000 +0100" stop="20240624100000 +0100">
+  <programme channel="NHKWorld.yt" start="20240624090000 +0100" stop="20240624120000 +0100">
     <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
     <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
     <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NHKWorld.yt" start="20240624100000 +0100" stop="20240624130000 +0100">
+  <programme channel="NHKWorld.yt" start="20240624120000 +0100" stop="20240624150000 +0100">
     <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
     <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
     <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NHKWorld.yt" start="20240624130000 +0100" stop="20240624160000 +0100">
+  <programme channel="NHKWorld.yt" start="20240624150000 +0100" stop="20240624180000 +0100">
     <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
     <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
     <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NHKWorld.yt" start="20240624160000 +0100" stop="20240624190000 +0100">
+  <programme channel="NHKWorld.yt" start="20240624180000 +0100" stop="20240624210000 +0100">
     <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
     <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
     <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NHKWorld.yt" start="20240624190000 +0100" stop="20240624220000 +0100">
+  <programme channel="NHKWorld.yt" start="20240624210000 +0100" stop="20240625000000 +0100">
     <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
     <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
     <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NHKWorld.yt" start="20240624220000 +0100" stop="20240625010000 +0100">
+  <programme channel="NHKWorld.yt" start="20240625000000 +0100" stop="20240625030000 +0100">
     <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
     <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
     <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault_live.jpg"/>
@@ -45,42 +45,42 @@
   <channel id="ArirangTV.yt">
     <display-name lang="en">Arirang TV</display-name>
   </channel>
-  <programme channel="ArirangTV.yt" start="20240624010000 +0100" stop="20240624040000 +0100">
+  <programme channel="ArirangTV.yt" start="20240624030000 +0100" stop="20240624060000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ArirangTV.yt" start="20240624040000 +0100" stop="20240624070000 +0100">
+  <programme channel="ArirangTV.yt" start="20240624060000 +0100" stop="20240624090000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ArirangTV.yt" start="20240624070000 +0100" stop="20240624100000 +0100">
+  <programme channel="ArirangTV.yt" start="20240624090000 +0100" stop="20240624120000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ArirangTV.yt" start="20240624100000 +0100" stop="20240624130000 +0100">
+  <programme channel="ArirangTV.yt" start="20240624120000 +0100" stop="20240624150000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ArirangTV.yt" start="20240624130000 +0100" stop="20240624160000 +0100">
+  <programme channel="ArirangTV.yt" start="20240624150000 +0100" stop="20240624180000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ArirangTV.yt" start="20240624160000 +0100" stop="20240624190000 +0100">
+  <programme channel="ArirangTV.yt" start="20240624180000 +0100" stop="20240624210000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ArirangTV.yt" start="20240624190000 +0100" stop="20240624220000 +0100">
+  <programme channel="ArirangTV.yt" start="20240624210000 +0100" stop="20240625000000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ArirangTV.yt" start="20240624220000 +0100" stop="20240625010000 +0100">
+  <programme channel="ArirangTV.yt" start="20240625000000 +0100" stop="20240625030000 +0100">
     <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
     <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
     <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/maxresdefault_live.jpg"/>
