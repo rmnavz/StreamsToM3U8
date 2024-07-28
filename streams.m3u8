@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="NHKWorld.yt" tvg-name="NHK World Japan" group-title="News", NHK World Japan
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722158369/ei/wbilZsXGB-2M2_gP5PKNsQU/ip/172.183.107.20/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAVW4xAPP-36zzR59y6NbWozV8ifJkSJMwlrCsUYzV4MC5rhQer85x8rsc3I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFLLik3oI_CH_idGfF2NNlTeun0I84Q17hILSr8WEFfgCIQCGeeWRwDFIvJWB0-72kHLHg3pxPK_ExDFWgQbad2R9EQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ArirangTV.yt" tvg-name="Arirang TV" group-title="Education", Arirang TV
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722158369/ei/wbilZt75KZyvlu8P-YP_yAE/ip/172.183.107.20/id/CJVBX7KI5nU.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAayZLu87Pllr9fEly9hmxGWCZjt6mmxAd8WddYHje4PYNKgF_P1O_v9swN0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM2hK15uCGB2iJHPNWEERY0S-FQ8s6eTCCrEqzbYNW-8AiEArUnPvmMuAA5QlMJm0c58H7KxA0N2ts4mT-pgjHnyr10%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="abscbnentertainment.yt" tvg-name="Kapamilya Online Live" group-title="News", Kapamilya Online Live
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
